@@ -1,0 +1,12 @@
+{
+  "name": "BulbAList",
+  "displayName": "BulbAList",
+  "expo": {
+    "name": "BulbAList",
+    "slug": "BulbAList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
